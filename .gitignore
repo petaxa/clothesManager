@@ -25,3 +25,6 @@ dist-ssr
 
 # 画像ファイル
 public/clotheImages/
+
+# vite
+.vite/
